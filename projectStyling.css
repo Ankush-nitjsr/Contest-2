@@ -1,0 +1,170 @@
+* {
+    border: 0px;
+    font-family: Poppins;
+}
+
+body{
+    background-color: #1F1F1F;
+}
+
+.header {
+    background-color:#1F1F1F;
+    margin: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    justify-items: start;
+    align-content: space-between;
+}
+
+h1 {
+    font-family: Poppins;
+    font-size: 26px;
+    font-style: Bold;
+    font-weight: 700;
+    color:#FFFFFF;
+    display: inline;
+}
+
+#search{
+    background-color: #262626;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+}
+
+.header-button {
+    color: white;
+    background-color: #262626;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.about {
+    background-color: #262626;
+    display: flex;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+.abt {
+    display: flex;
+}
+
+.abt1 {
+    width: 105px;
+    height: 105px;
+}
+
+div.abt p {
+    color: #C4C4C4;
+    padding: 25px;
+}
+
+.about2 {
+    margin-left: 650px;
+}
+
+#clock {
+    width: 200px;
+    height: 200px;
+}
+
+.about-button {
+    background-color: #FECB03;
+    border-radius: 50px;
+    width: 200px;
+    height: 107px;
+    margin: 0px;
+}
+
+.OurCategories {
+    margin: 88px;
+}
+
+.cat1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color:#C4C4C4;
+}
+
+.cat2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color:#C4C4C4;
+    border-radius: 20px;
+}
+
+.category1 {
+    border: 3px solid #262626;
+    border-radius: 20px;
+    
+}
+
+.category2 {
+    border: 3px solid #262626;
+    border-radius: 20px;
+}
+
+#cat11, #cat12, #cat13, #cat21, #cat22, #cat23 {
+    margin: 30px;
+    text-align: left;
+    padding: 20px;
+}
+
+.category1 button, .category2 button {
+    background-color: #FECB03;
+    border-radius: 30px;
+    padding: 20px 40px 20px 40px;
+    margin-top: 40px;
+    margin-left: 145px;
+}
+
+.category1 h2, .category2 h2 {
+    color: #C4C4C4;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.category1 p, .category2 p {
+    color: #FFFFFFCC;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.footer {
+    background-color: #262626;
+    display: flex;
+    margin: 30px;
+    padding: 5px;
+    border-radius: 40px;
+}
+
+.footer h1, .footer h2 {
+    color: #FFFFFF;
+}
+
+.footer a {
+    color: #FFFFFFCC;
+}
+
+p {
+    color: #FFFFFFCC; 
+}
+
+.footer1 {
+    margin: 10px 0 10px 30px;
+}
+
+.footer2 {
+    margin: 10px 100px 10px 160px;
+}
+
+.footer3 {
+    margin: 10px 50px 10px 180px;
+}
+
